@@ -2,6 +2,8 @@
 
 
 📋 Overview
+
+
 This project performs exploratory data analysis and data cleaning on the Titanic dataset to uncover survival patterns and prepare data for future modeling.
 
 
