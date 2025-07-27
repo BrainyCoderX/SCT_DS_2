@@ -1,6 +1,10 @@
 🚢 Titanic Dataset: EDA & Cleaning
+
+
 📋 Overview
 This project performs exploratory data analysis and data cleaning on the Titanic dataset to uncover survival patterns and prepare data for future modeling.
+
+
 📁 Project Contents
 - Titanic_dataset.csv: Raw dataset
 - task2_eda_script.py: Script for data analysis and visualization
