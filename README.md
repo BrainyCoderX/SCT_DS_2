@@ -15,6 +15,8 @@ This project performs exploratory data analysis and data cleaning on the Titanic
 - Python, pandas
 - seaborn, matplotlib
 - VS Code 
+
+
 🔍 Key Analysis
 - Missing values handled and irrelevant columns dropped
 - Visual insights into how age, sex, and class influence survival
