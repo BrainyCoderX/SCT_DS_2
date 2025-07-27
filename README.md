@@ -9,6 +9,8 @@ This project performs exploratory data analysis and data cleaning on the Titanic
 - Survival by sex
 - Age distribution by passenger class
 - Correlation heatmap
+
+
 🛠 Tools Used
 - Python, pandas
 - seaborn, matplotlib
